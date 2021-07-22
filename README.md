@@ -1,0 +1,4 @@
+- Software Engineer
+- Javascript/Typescript | C/C++ | Rust Developer
+- Open Source Contributor
+- Collaborating & Learning Endlessly
